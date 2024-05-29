@@ -1,0 +1,8 @@
+- 👋 Hi, I’m Oleg Sednev
+- ✈️ I came to IT from gas turbine designing and I am sure that work can and should be a hobby
+- 🌱 I’m skilled in Java, Spring, SQL
+- 👀 I’m looking for opportunities as a Java backend developer
+- 📚 I am currently learning Spring in Action by Craig Walls
+- 💻 You can view my leetcode profile https://leetcode.com/u/Xarmin/
+- 📫 You can email me: mniti-66@mail.ru or phone me: +7-915-109-64-82
+- ⚡ Fun fact: love Spring and have allergy to spring simutaniously
