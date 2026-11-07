@@ -5,4 +5,4 @@
 - 📚 I am currently learning Spring in Action by Craig Walls
 - 💻 You can view my leetcode profile https://leetcode.com/u/Xarmin/
 - 📫 You can email me: mniti-66@mail.ru or phone me: +7-915-109-64-82
-- ⚡ Fun fact: love Spring and have allergy to spring simutaniously
+- ⚡ Fun fact: i like Spring and have allergy to spring simutaniously
